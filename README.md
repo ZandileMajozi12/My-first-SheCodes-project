@@ -2,3 +2,4 @@
 $ changed the folder name to shecodeprojectone
 $ added index.html file
 $ added package.json file
+$ added src folder
